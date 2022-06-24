@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/raitonoberu/lyricsapi/lyrics"
+	"github.com/JoseLuizFranco/lyricsapi/lyrics"
 )
 
 var api = lyrics.NewLyricsApi(os.Getenv("COOKIE"))
