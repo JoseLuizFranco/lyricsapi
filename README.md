@@ -6,7 +6,7 @@ Go package and server app for retrieving time-stamped lyrics from Spotify.
 ### Use as package
 
 ```bash
-go get github.com/raitonoberu/lyricsapi
+go get github.com/JoseLuizFranco/lyricsapi
 ```
 
 ```go
@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/raitonoberu/lyricsapi/lyrics"
+	"github.com/JoseLuizFranco/lyricsapi/lyrics"
 )
 
 func main() {
