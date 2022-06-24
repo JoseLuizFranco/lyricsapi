@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/raitonoberu/lyricsapi/api"
+	"github.com/JoseLuizFranco/lyricsapi/api"
 )
 
 func main() {
