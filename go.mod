@@ -1,3 +1,3 @@
-module github.com/raitonoberu/lyricsapi
+module github.com/JoseLuizFranco/lyricsapi
 
 go 1.17
